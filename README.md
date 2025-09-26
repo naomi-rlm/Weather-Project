@@ -1,14 +1,15 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Precipiation Seattle vs Orlando
 
 > A brief description of what the project does and its purpose.
-
+> 
+> This project aims to find out which city, Seattle or Orlando, recieves more precipitation on avgerage based on data collected from 2018-2022.
 ---
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
+This project aims to find out which city, Seattle or Orlando, recieves more precipitation on avgerage based on data collected from 2018-2022.
 
-- **Objective:** Clearly state the main goal of the project.
+- **Objective:** Find if Seattle or Orlando recieves more annual precipitaion
 - **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
@@ -28,7 +29,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- **Source:** [Link to the data source(s)](https://www.ncei.noaa.gov/cdo-web/search) 
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
@@ -48,7 +49,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Your Name - [@naomi-rlm](https://github.com/naomi-rlm)
 
 ---
 
