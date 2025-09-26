@@ -1,4 +1,4 @@
-# Precipiation Seattle vs Orlando
+# Precipitation Seattle vs Orlando
 
 > A brief description of what the project does and its purpose.
 > 
